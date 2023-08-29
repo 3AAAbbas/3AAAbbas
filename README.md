@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-A professional with expertise in healthcare and education, holding an HND in Health Information Management. Hold certificates in Google Data Analytics, Business Intelligence, and Advanced Data Analytics. With a strong foundation in health data management, they adeptly navigate medical systems while ensuring data security. Their Google certifications underscore their prowess in data interpretation, trend analysis, and informed decision-making. Beyond technical skills, their passion for teaching shines, making complex concepts relatable. This unique blend of healthcare knowledge, data analytics proficiency, and teaching ability positions them as a valuable asset capable of driving impactful change in both sectors.
-
+A professional with expertise in Data Science, healthcare and education sector.
 *   🌍  I'm based in Kano, Nigeria
 *   ✉️  You can contact me at [20adamabbas@gmail.com](mailto:20adamabbas@gmail.com)### Skills 
 <p align="left">
