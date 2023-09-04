@@ -1,3 +1,4 @@
+![MasterHead](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)
 <h1 align="center">Hi 👋, I'm Adam Abbas Abba</h1>
 <h3 align="center">A passionate Data Scientist from Nigeria</h3>
 
